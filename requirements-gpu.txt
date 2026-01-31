@@ -1,0 +1,11 @@
+# GPU requirements (NVIDIA CUDA) for ImageBuddy
+# PyTorch with CUDA 12.1 support
+
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch
+torchvision
+torchaudio
+transformers
+einops
+timm
+safetensors

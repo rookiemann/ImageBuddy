@@ -1,0 +1,6 @@
+# config.py
+# API keys for image sources
+
+PIXABAY_KEY = "33929247-017ab7e6db270ebaf5e68d2c1"
+PEXELS_KEY = "YGYY2ERTPVVo9YUKhRiMqiTBnpo1Pg9F5CKd5pKpIT2vj1wYskteCviP"
+UNSPLASH_KEY = "Xg4x_K29UVND4b_C7eJjGlSHsBR914w1hQwz24E94xA"

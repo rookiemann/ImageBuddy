@@ -1,0 +1,12 @@
+# Base requirements for ImageBuddy
+# These are installed automatically by run.bat
+
+Pillow
+aiohttp
+psutil
+flask
+flask-cors
+requests
+tqdm
+colorama
+pynvml

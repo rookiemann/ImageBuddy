@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Portable Python environment (too large for git)
+python/
+python-portable.zip
+
+# Downloaded models (downloaded on first use)
+models/florence2-large/
+
+# User data
+images/images.db
+images/originals/*
+images/thumbs/*
+!images/originals/.gitkeep
+!images/thumbs/.gitkeep
+
+# Logs
+*.log
+debug_log.txt
+error_log.txt
+info_log.txt
+
+# Config with API keys (users should create their own)
+# config/settings.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,22 @@
+{
+  "pixabay_key": "",
+  "pexels_key": "",
+  "unsplash_key": "",
+  "theme": "dark",
+  "vision_auto_load": false,
+  "vision_gpu_strategy": "auto",
+  "vision_gpu_enabled": {},
+  "vision_gpu_instances": {},
+  "vision_allow_cpu": false,
+  "vision_cpu_instances": 1,
+  "vision_max_per_gpu": 4,
+  "vision_max_total": 8,
+  "vision_reserved_vram": 0.5,
+  "vision_auto_unload": false,
+  "api_host": "127.0.0.1",
+  "api_port": 5000,
+  "api_auto_start": false,
+  "api_cors_enabled": false,
+  "api_auto_load_vision": true,
+  "api_auto_unload_vision": true
+}
